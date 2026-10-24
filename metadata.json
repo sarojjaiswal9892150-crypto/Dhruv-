@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI - Friendly Bilingual Assistant",
+  "description": "Nova AI is a friendly, warm AI assistant that always answers concisely in simple Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
